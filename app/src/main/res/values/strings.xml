@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Preferences</string>
+    <string name="btnRedirect_group_name">Go to 2-nd</string>
+    <string name="btnSave_group_name">Save</string>
+    <string name="btnRead_group_name">Read prefeneces</string>
+    <string name="btnBack_group_name">Back</string>
+    <string name="txtInputHint_group_name">Preference</string>
+    <string-array name="themes">
+        <item>Default</item>
+        <item>Light theme</item>
+        <item>Dark theme</item>
+    </string-array>
+</resources>
